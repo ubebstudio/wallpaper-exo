@@ -113,6 +113,35 @@
     "UNITY",
     "STARTAPP"
   ]
+},
+  
+ "exokai" : {
+  "username": "exowallpaperapp",
+  "album": [
+    "Kim Jong In"
+  ],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-4680921445869325/9643762288",
+  "admob_interstitial_id": "ca-app-pub-4680921445869325/8324803570",
+  "admob_native_id": "ca-app-pub-4680921445869325/5726560395",
+  "admob_rewarded_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4680921445869325/5007468492",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB",
+    "UNITY",
+    "STARTAPP"
+  ]
 }
   
  
