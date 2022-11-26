@@ -60,9 +60,9 @@
 "exochen" : {
   "username": "exowallpaperapp",
   "album": [
-    "Kim Jong Dae"
+    "Chen"
   ],
-  "init_jumlah_photo": 50,
+  "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-4680921445869325/9517631593",
   "admob_interstitial_id": "ca-app-pub-4680921445869325/1039348100",
   "admob_native_id": "ca-app-pub-4680921445869325/8726266435",
@@ -89,9 +89,9 @@
  "exodokyungsoo" : {
   "username": "exowallpaperapp",
   "album": [
-    "Do Kyung Soo"
+    "DO"
   ],
-  "init_jumlah_photo": 50,
+  "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-4680921445869325/2689333519",
   "admob_interstitial_id": "ca-app-pub-4680921445869325/5512945581",
   "admob_native_id": "ca-app-pub-4680921445869325/6848070379",
